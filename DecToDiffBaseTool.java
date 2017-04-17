@@ -25,7 +25,7 @@ public class DecToDiffBaseTool{
 
 	public static void main(String args[]){
 		Scanner keyboard = new Scanner(System.in);
-		System.out.print("Please input the N that want to be convert:");
+		System.out.print("Please input the N that want to be converted:");
 		int N = keyboard.nextInt();
 		System.out.print("Please input the Base:");
 		int B = keyboard.nextInt();
